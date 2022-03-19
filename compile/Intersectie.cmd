@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\proiect_final\library.cfg"  -j "c:\My_Designs\proiect_final\Intersectie\projlib.cfg"  -d "c:\My_Designs\proiect_final\Intersectie\compile"   -work Intersectie  -O3 -e 100 -2002 "c:\My_Designs\proiect_final\Intersectie\src\intersectie_semaforizata.vhd"

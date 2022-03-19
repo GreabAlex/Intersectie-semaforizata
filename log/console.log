@@ -1,0 +1,307 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -work Intersectie -2002  $dsn/src/intersectie_semaforizata.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: c:\My_Designs\proiect_final\Intersectie\src\intersectie_semaforizata.vhd
+# Compile Entity "SEMAFOR"
+# Compile Architecture "SEMAFOR" of Entity "SEMAFOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+asim -O5 +access +r +m+SEMAFOR SEMAFOR SEMAFOR
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5887 kB (elbread=1023 elab2=4772 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\proiect_final\Intersectie\src\wave.asdb
+#  02:50, 23 mai 2020
+#  Simulation has been initialized
+#  Selected Top-Level: SEMAFOR (SEMAFOR)
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5887 kB (elbread=1023 elab2=4772 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\proiect_final\Intersectie\src\wave.asdb
+#  02:50, 23 mai 2020
+#  Simulation has been initialized
+#  Selected Top-Level: SEMAFOR (SEMAFOR)
+run 1 s
+# KERNEL: stopped at time: 1 sec
+run 1 s
+# KERNEL: stopped at time: 2 sec
+run 1 s
+# KERNEL: stopped at time: 3 sec
+run 1 s
+# KERNEL: stopped at time: 4 sec
+run 1 s
+# KERNEL: stopped at time: 5 sec
+run 1 s
+# KERNEL: stopped at time: 6 sec
+run 1 s
+# KERNEL: stopped at time: 7 sec
+run 1 s
+# KERNEL: stopped at time: 8 sec
+run 1 s
+# KERNEL: stopped at time: 9 sec
+run 1 s
+# KERNEL: stopped at time: 10 sec
+run 1 s
+# KERNEL: stopped at time: 11 sec
+run 1 s
+# KERNEL: stopped at time: 12 sec
+run 1 s
+# KERNEL: stopped at time: 13 sec
+run 1 s
+# KERNEL: stopped at time: 14 sec
+run 1 s
+# KERNEL: stopped at time: 15 sec
+run 1 s
+# KERNEL: stopped at time: 16 sec
+run 1 s
+# KERNEL: stopped at time: 17 sec
+run 1 s
+# KERNEL: stopped at time: 18 sec
+run 1 s
+# KERNEL: stopped at time: 19 sec
+run 1 s
+# KERNEL: stopped at time: 20 sec
+run 1 s
+# KERNEL: stopped at time: 21 sec
+run 1 s
+# KERNEL: stopped at time: 22 sec
+run 1 s
+# KERNEL: stopped at time: 23 sec
+run 1 s
+# KERNEL: stopped at time: 24 sec
+run 1 s
+# KERNEL: stopped at time: 25 sec
+run 1 s
+# KERNEL: stopped at time: 26 sec
+run 1 s
+# KERNEL: stopped at time: 27 sec
+run 1 s
+# KERNEL: stopped at time: 28 sec
+run 1 s
+# KERNEL: stopped at time: 29 sec
+run 1 s
+# KERNEL: stopped at time: 30 sec
+run 1 s
+# KERNEL: stopped at time: 31 sec
+run 1 s
+# KERNEL: stopped at time: 32 sec
+run 1 s
+# KERNEL: stopped at time: 33 sec
+run 1 s
+# KERNEL: stopped at time: 34 sec
+run 1 s
+# KERNEL: stopped at time: 35 sec
+run 1 s
+# KERNEL: stopped at time: 36 sec
+run 1 s
+# KERNEL: stopped at time: 37 sec
+run 1 s
+# KERNEL: stopped at time: 38 sec
+run 1 s
+# KERNEL: stopped at time: 39 sec
+run 1 s
+# KERNEL: stopped at time: 40 sec
+run 1 s
+# KERNEL: stopped at time: 41 sec
+run 1 s
+# KERNEL: stopped at time: 42 sec
+run 1 s
+# KERNEL: stopped at time: 43 sec
+run 1 s
+# KERNEL: stopped at time: 44 sec
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5887 kB (elbread=1023 elab2=4772 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\proiect_final\Intersectie\src\wave.asdb
+#  02:51, 23 mai 2020
+#  Simulation has been initialized
+#  Selected Top-Level: SEMAFOR (SEMAFOR)
+run 1 s
+# KERNEL: stopped at time: 1 sec
+run 1 s
+# KERNEL: stopped at time: 2 sec
+run 1 s
+# KERNEL: stopped at time: 3 sec
+run 1 s
+# KERNEL: stopped at time: 4 sec
+run 1 s
+# KERNEL: stopped at time: 5 sec
+run 1 s
+# KERNEL: stopped at time: 6 sec
+run 1 s
+# KERNEL: stopped at time: 7 sec
+run 1 s
+# KERNEL: stopped at time: 8 sec
+run 1 s
+# KERNEL: stopped at time: 9 sec
+restart
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5887 kB (elbread=1023 elab2=4772 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\proiect_final\Intersectie\src\wave.asdb
+#  02:52, 23 mai 2020
+#  Simulation has been initialized
+#  Selected Top-Level: SEMAFOR (SEMAFOR)
+run 1 s
+# KERNEL: stopped at time: 1 sec
+run 1 s
+# KERNEL: stopped at time: 2 sec
+run 1 s
+# KERNEL: stopped at time: 3 sec
+run 1 s
+# KERNEL: stopped at time: 4 sec
+run 1 s
+# KERNEL: stopped at time: 5 sec
+run 1 s
+# KERNEL: stopped at time: 6 sec
+run 1 s
+# KERNEL: stopped at time: 7 sec
+run 1 s
+# KERNEL: stopped at time: 8 sec
+run 1 s
+# KERNEL: stopped at time: 9 sec
+run 1 s
+# KERNEL: stopped at time: 10 sec
+run 1 s
+# KERNEL: stopped at time: 11 sec
+run 1 s
+# KERNEL: stopped at time: 12 sec
+run 1 s
+# KERNEL: stopped at time: 13 sec
+run 1 s
+# KERNEL: stopped at time: 14 sec
+run 1 s
+# KERNEL: stopped at time: 15 sec
+run 1 s
+# KERNEL: stopped at time: 16 sec
+run 1 s
+# KERNEL: stopped at time: 17 sec
+run 1 s
+# KERNEL: stopped at time: 18 sec
+run 1 s
+# KERNEL: stopped at time: 19 sec
+run 1 s
+# KERNEL: stopped at time: 20 sec
+run 1 s
+# KERNEL: stopped at time: 21 sec
+run 1 s
+# KERNEL: stopped at time: 22 sec
+run 1 s
+# KERNEL: stopped at time: 23 sec
+run 1 s
+# KERNEL: stopped at time: 24 sec
+run 1 s
+# KERNEL: stopped at time: 25 sec
+run 1 s
+# KERNEL: stopped at time: 26 sec
+run 1 s
+# KERNEL: stopped at time: 27 sec
+run 1 s
+# KERNEL: stopped at time: 28 sec
+run 1 s
+# KERNEL: stopped at time: 29 sec
+run 1 s
+# KERNEL: stopped at time: 30 sec
+run 1 s
+# KERNEL: stopped at time: 31 sec
+run 1 s
+# KERNEL: stopped at time: 32 sec
+run 1 s
+# KERNEL: stopped at time: 33 sec
+endsim
+#  Simulation has been stopped
+asim -O5 +access +r +m+SEMAFOR SEMAFOR SEMAFOR
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+acom -O3 -work Intersectie -2002  $dsn/src/intersectie_semaforizata.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: c:\My_Designs\proiect_final\Intersectie\src\intersectie_semaforizata.vhd
+# Compile Entity "SEMAFOR"
+# Compile Architecture "SEMAFOR" of Entity "SEMAFOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5887 kB (elbread=1023 elab2=4772 kernel=91 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\proiect_final\Intersectie\src\wave.asdb
+#  02:53, 23 mai 2020
+#  Simulation has been initialized
+#  Selected Top-Level: SEMAFOR (SEMAFOR)
+run 1 s
+# KERNEL: stopped at time: 1 sec
+endsim
+#  Simulation has been stopped
+acom -O3 -work Intersectie -2002  $dsn/src/intersectie_semaforizata.vhd
+# Compile...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available.
+# File: c:\My_Designs\proiect_final\Intersectie\src\intersectie_semaforizata.vhd
+# Compile Entity "SEMAFOR"
+# Compile Architecture "SEMAFOR" of Entity "SEMAFOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]

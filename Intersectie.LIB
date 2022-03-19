@@ -1,0 +1,25 @@
+timestamp=1590191640773
+
+[semafor]
+A/semafor=A/SEMAFOR 21|./src/intersectie_semaforizata.vhd|63|1*74151
+BinI32/semafor=3*0
+I=0*2324
+I/semafor=I/SEMAFOR 0*46944
+M=11|0|v98|1590182592532|./src/intersectie_semaforizata.vhd|0*1059*0x26a44e8a9d3f26fec3561d3d4df7e0048edab87c|0*2232*0xab32bc1a2daf049573e14469f634e0e6
+M/semafor=M/SEMAFOR 21|0|v98|1590191640636|./src/intersectie_semaforizata.vhd|0*42623*0x5e1a1d2f401c8787dca17b6e931f1dd9bd1f69c9|0*46841*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/intersectie_semaforizata.vhd|4
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/semafor=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=71
+Version=73
+
+[~MFT]
+0=60|0Intersectie.mgf|46944|40129
+1=22|1Intersectie.mgf|74151|74151
+3=0|3Intersectie.mgf|0|0
+
+[~U]
+semafor=SEMAFOR 11|0*0|
+

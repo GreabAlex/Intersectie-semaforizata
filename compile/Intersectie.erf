@@ -1,0 +1,32 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: c:\My_Designs\proiect_final\Intersectie\src\intersectie_semaforizata.vhd" 
+BEGINPROGRESS c:\My_Designs\proiect_final\Intersectie\src\intersectie_semaforizata.vhd
+MESSAGE "Compile Entity "SEMAFOR"" 
+UPDATEPROGRESS 19
+MESSAGE "Compile Architecture "SEMAFOR" of Entity "SEMAFOR"" 
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 28
+UPDATEPROGRESS 29
+UPDATEPROGRESS 38
+UPDATEPROGRESS 83
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS c:\My_Designs\proiect_final\Intersectie\src\intersectie_semaforizata.vhd
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 
